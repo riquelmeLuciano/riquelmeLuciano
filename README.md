@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Luciano 👋
 
-<!--
-**riquelmeLuciano/riquelmeLuciano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Systems Student  
+📊 Data Analytics | Data Engineering | Backend Development
 
-Here are some ideas to get you started:
+🛠️ Python • SQL • PostgreSQL • MongoDB • Power BI • Java • FastAPI • Django • Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 LinkedIn: https://www.linkedin.com/in/luciano-riquelme  
+🌐 Website: https://riquelmeluciano.github.io/
+📄 Resume:
+
+
+
+
+
+ 
