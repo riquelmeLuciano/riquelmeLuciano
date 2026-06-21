@@ -5,9 +5,7 @@
 
 🛠️ Python • SQL • PostgreSQL • MongoDB • Power BI • Java • FastAPI • Django • Git
 
-💼 LinkedIn: https://www.linkedin.com/in/luciano-riquelme  
-🌐 Website: https://riquelmeluciano.github.io/
-📄 Resume:
+💼 [LinkedIn](https://www.linkedin.com/in/luciano-riquelme) • 🌐 [Website](https://riquelmeluciano.github.io/) • 📄 [Resume](https://tu-link-del-cv)
 
 
 
